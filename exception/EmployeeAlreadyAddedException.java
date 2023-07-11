@@ -9,3 +9,4 @@ public class EmployeeAlreadyAddedException extends HttpStatusCodeException {
         super(HttpStatus.BAD_REQUEST, message);
     }
 }
+
